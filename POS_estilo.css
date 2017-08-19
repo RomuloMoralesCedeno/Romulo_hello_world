@@ -1,0 +1,18 @@
+p{
+    padding: 20px;
+    background-color: rosybrown;
+    text-align: center;
+}
+img{
+    margin: auto;
+    display: block;
+    padding: 15px;
+    height:  150px;
+    width: 130px;
+    background-color: red;
+}
+.Main_sec{
+    padding: 15px;
+    background-color: blueviolet;
+    align-items: center;
+}

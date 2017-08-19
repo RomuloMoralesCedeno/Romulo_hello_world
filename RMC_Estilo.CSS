@@ -1,0 +1,13 @@
+img{
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 150px;
+    float: left;
+}
+.Sample_text{
+    text-decoration: underline;
+}
+.Plain_text{
+  clear: both;
+}
