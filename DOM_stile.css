@@ -1,0 +1,14 @@
+ul{
+    margin: auto;
+    display: block;
+    background-color: blueviolet;
+    text-align: left;
+    padding: 15px;
+}
+section{
+    padding: 50px;
+}
+img{
+    height: 200px;
+    width: 150px;
+}

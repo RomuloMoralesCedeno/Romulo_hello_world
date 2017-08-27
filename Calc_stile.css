@@ -1,0 +1,29 @@
+#Main_Input{
+    margin: auto;
+    display: block;
+    padding: 15px;
+    background-color: palegreen;
+    text-align: center;
+}
+#Main_sec{
+    margin: auto;
+    display: block;
+    background-color: blueviolet;
+    text-align: center;
+}
+#greeting{
+    margin: auto;
+    display: block;
+    padding: 15px;
+    background-color: pink;
+    text-align: center;
+
+}
+.P_Desc{
+    margin: auto;
+    display: block;
+    padding: 15px;
+    background-color: pink;
+    text-align: center;
+
+}

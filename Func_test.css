@@ -1,0 +1,13 @@
+.h1_tit{
+    height: 10px;
+    color: #A84A67;
+    text-align: center;
+    padding: 10px;
+}
+button{
+    height: 25px;
+    color: #71375C;
+    background: chartreuse;
+    text-align: center;
+    text-decoration: underline;
+}
